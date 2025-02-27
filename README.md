@@ -71,3 +71,5 @@
 💡 **AI is not just technology—it's the revolution.**  
 🌍 **I want to shape AI-driven solutions that impact millions.**  
 🚀 **Join me on this journey—let’s build the future together!**  
+
+![](https://komarev.com/ghpvc/?username=pooya-mohammadi&color=green)
