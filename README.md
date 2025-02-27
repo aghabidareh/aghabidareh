@@ -1,37 +1,34 @@
 <h1 align="center">  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
-  Hi, I'm Mohammad Amin Khara  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
+  Hey, I'm <strong>Mohammad Amin Khara</strong> 🚀  
 </h1>  
 
 <p align="center">  
-  🚀 <strong>Machine Learning Engineer | Aspiring Backend Developer</strong>  
-</p>  
-
-<p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=580&lines=Exploring+AI%2C+Deep+Learning+%26+Django;Building+Scalable+and+Intelligent+Systems;Lifelong+Learner+and+Tech+Enthusiast;Let's+Innovate+Together!" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Backend+Developer;Building+Intelligent+and+Scalable+Systems;AI+is+the+Future%2C+and+I'm+Here+to+Shape+It!" alt="Typing SVG" />  
 </p>  
 
 ---
 
 ## 🚀 About Me  
-
-💡 I'm a **Machine Learning Engineer** with a growing passion for **Backend Development**.  
-💻 I specialize in **AI-driven solutions** and **scalable backend architectures**—with a particular focus on **Django**.  
-🔍 I’m constantly learning, exploring new tools, and pushing the limits of what's possible.  
-🌍 Always open to **collaborations with Microsoft, FAANG, or other cutting-edge teams**.
+👨‍💻 **Machine Learning Engineer** | **Backend Developer (Django)** | **AI Enthusiast**  
+⚡ Passionate about **Deep Learning, AI Ethics, and Scalable Architectures**  
+🔍 Focused on **AI-powered solutions** that drive **real-world impact**  
+🌍 **Aspiring to join Microsoft, FAANG, or top AI research teams**  
 
 ---
 
-## ⚡ What I’m Currently Focused On  
-✅ **Advancing AI Models** in **Deep Learning** & **Natural Language Processing (NLP)**.  
-✅ **Mastering Django** for building reliable, scalable backend systems.  
-✅ **Optimizing performance** in **data science** pipelines & **machine learning workflows**.  
-✅ **Experimenting** with **reinforcement learning**, **AI ethics**, and **data-driven decision-making**.  
+## 🌟 What I’m Doing Right Now  
+✅ **Developing AI Models** for **Computer Vision & NLP**  
+✅ **Mastering Django** to build **robust, scalable web applications**  
+✅ **Optimizing Data Pipelines** for high-performance ML solutions  
+✅ **Pushing AI Boundaries** through **cutting-edge research**  
 
 ---
 
 ## 📚 Fun Fact  
-> When I’m not coding, I’m diving into the worlds of **Dostoevsky**, **Camus**, and many other **classic philosophers and authors**, constantly questioning existence and unraveling the mysteries of the human mind.
+📖 I have read **countless books**, diving deep into **philosophy, psychology, and literature**.  
+🔥 Some of my favorites: **Dostoevsky, Camus, Nietzsche, and Orwell**.  
+🎭 I believe that **understanding the human mind** makes me a better **AI engineer**.  
 
 ---
 
@@ -42,39 +39,37 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />  
 </p>  
 
 ---
 
-## 🌟 Additional Interests  
-- I have read **many books**, with a special place for **Russian literature** and **existential philosophy**.  
-- Always fascinated by **psychology** and **human behavior**—understanding how the mind works helps me develop better, more intuitive AI.  
-- I love **solving complex problems** and bringing **innovative solutions** to life, whether it’s in software or in life itself.  
-- On a personal level, I enjoy **playing chess**, **writing short stories**, and **exploring new technologies**.  
+## 🔥 Extra Interests  
+- 🏆 **Competitive Programming** & **AI Model Optimization**  
+- 🎨 **Creativity in Code**: Writing elegant, efficient, and **AI-powered** software  
+- ♟️ **Chess Enthusiast**: Always ready for a **strategic battle**  
+- 📖 **Fascinated by Human Behavior & Decision-Making**  
 
 ---
 
-## 🌎 Let’s Connect!  
+## 🌎 Let's Connect!  
 <p align="center">  
-  <a href="https://github.com/aghabidareh" target="_blank">  
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
+  </a>  
+  <a href="https://github.com/your-profile" target="_blank">  
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
   </a>  
-  <a href="mailto:aghabidareh@gmail.com" target="_blank">  
+  <a href="mailto:your-email@example.com" target="_blank">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  
   </a>  
 </p>  
 
 ---
 
-## ✨ Fun & Personal Stuff  
-- 🧠 **Deep Conversations:** Let’s talk about AI, philosophy, or the future of humanity!  
-- 🖋 **Creative Writing:** I love to write and express ideas through words, whether in code or on paper.  
-- 🎮 **Gamer & Problem Solver:** When I need a break, I dive into logic-based games like **chess** and **puzzles**.  
-
----
-
-## 🔥 Goals & Vision  
-💡 My goal is to **push the boundaries** of what AI can do while building scalable, real-world backend systems.  
-🚀 I'm actively seeking **collaborations with innovators** in **AI, ML, Backend** & **Tech startups**.  
-📚 **Lifelong learner**—always working on a new project, studying the latest in AI, and exploring new horizons.  
+## 🚀 My Vision  
+💡 **AI is not just technology—it's the future.**  
+🌍 **I want to shape AI-driven solutions that impact millions.**  
+🚀 **Join me on this journey—let’s build the future together!**  
