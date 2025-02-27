@@ -71,3 +71,10 @@
 💡 **AI is not just technology—it's the revolution.**  
 🌍 **I want to shape AI-driven solutions that impact millions.**  
 🚀 **Join me on this journey—let’s build the future together!**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pooya-mohammadi&show_icons=true&theme=monokai" alt="Pooya Mohammadi's GitHub stats" /><br />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooya-mohammadi&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Pooya Mohammadi's GitHub stats" /><br />
+</p>
