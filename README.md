@@ -3,7 +3,7 @@
   Hey, I'm <strong>Mohammad Amin Khara</strong> 🚀  
 </h1>  
 
-<p align="center">  
+<p align="center">   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+%7C+Machine+Learning+%7C+Backend+Django;Building+the+Future+with+Code+and+Intelligence;Engineer%2C+Thinker%2C+Problem+Solver%2C+Game+Changer;AI+is+the+Future%2C+and+I'm+Here+to+Shape+It!" alt="Typing SVG" />  
 </p>  
 
