@@ -1,4 +1,4 @@
-Hi, I'm Mohammad Amin Khara 👋
+## Hi, I'm Mohammad Amin Khara 👋
 🚀 Machine Learning Enthusiast | Aspiring Backend Developer
 
 I navigate the world of Machine Learning, but my curiosity pulls me toward Django and backend development. While I currently train models and crunch data, I’m also building my expertise in crafting robust backend systems.
