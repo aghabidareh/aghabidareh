@@ -76,5 +76,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aghabidareh&color=neon" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aghabidareh&color=blue" alt="Profile Views" />
 </p>
