@@ -4,59 +4,59 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+%7C+Machine+Learning+%7C+Backend+Django;Building+the+Future+with+Code+and+Intelligence;Engineer%2C+Thinker%2C+Problem+Solver%2C+Game+Changer;AI+is+the+Future%2C+and+I'm+Here+to+Shape+It!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Machine+Learning+%7C+Django+Backend;Building+Intelligent+Systems+for+a+Smarter+Future;Engineer%2C+Innovator%2C+Problem+Solver;AI+is+the+Future%2C+Let's+Shape+it+Together!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me  
-🚀 **Machine Learning Engineer** | **Backend Developer (Django)** | **AI Innovator**  
-🎯 Passionate about **Deep Learning, AI-driven systems, and large-scale applications**  
-🔥 Solving **real-world problems** with cutting-edge **AI & backend development**  
-🌍 **Dreaming big**: FAANG, Microsoft, OpenAI – I’m coming for you!  
+## 🚀 About Me  
+🎯 **Machine Learning Engineer** | **Backend Developer (Django)** | **AI Innovator**  
+🔥 Passionate about **Deep Learning, AI-driven Systems, and Scalable Applications**  
+💡 Turning **complex problems** into **elegant solutions** with AI & backend magic  
+🎯 **Goal:** Build AI-driven solutions that redefine industries 🚀  
 
 ---
 
-## 🎯 My Philosophy  
-✔️ **AI is more than tech – it's the future.**  
-✔️ **Data is power – I'm here to harness it.**  
-✔️ **Code is an art – I make it elegant.**  
-✔️ **Challenges fuel me – the harder, the better.**  
+## 🌟 My Philosophy  
+✔️ **AI isn't just tech—it's the future.**  
+✔️ **Data fuels progress—I turn it into intelligence.**  
+✔️ **Code is an art—I craft it with precision.**  
+✔️ **Challenges excite me—the harder, the better.**  
 
 ---
 
-## 🏆 What I'm Working On  
-🚀 **Pushing AI to its limits** – building **powerful** and **intelligent** models  
-💡 **Mastering Django** – architecting **scalable**, **robust**, and **efficient** backends  
-📊 **Optimizing Machine Learning Pipelines** – for performance & accuracy  
-⚡ **Experimenting with AI + Web** – blending intelligence with interactivity  
+## 🔥 Current Focus  
+🚀 **Advancing AI** – Developing intelligent & robust models  
+💡 **Mastering Django** – Building **high-performance** backends  
+⚡ **Optimizing ML Pipelines** – Enhancing speed, accuracy & efficiency  
+🌍 **AI + Web Synergy** – Merging intelligence with interactivity  
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />  
-</p>  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured Projects & Achievements  
-🧠 **Built advanced AI models** that solve real-world problems  
-🔗 **Developed scalable Django backends** powering AI-driven applications  
-📊 **Optimized Machine Learning pipelines** for speed & accuracy  
-🚀 **Explored AI + Philosophy** – pushing the boundaries of human-computer interaction  
+## 🏆 Featured Work  
+✨ **AI-Powered Models** – Crafting next-gen intelligent systems  
+🔗 **Scalable Django Backends** – Powering AI-driven platforms  
+📊 **Optimized ML Pipelines** – Boosting efficiency & performance  
+🚀 **Exploring AI + Creativity** – Pushing boundaries in human-computer interaction  
 
 ---
 
-## 🎯 My Vision  
-💡 **AI is not just technology—it's the revolution.**  
-🌍 **I want to shape AI-driven solutions that impact millions.**  
-🚀 **Join me on this journey—let’s build the future together!**  
+## 🎯 Vision & Mission  
+💡 **AI isn’t just a tool—it’s the revolution.**  
+🌍 **I aim to build AI solutions that impact millions.**  
+🚀 **Let’s innovate and create a smarter world, together!**  
 
 ---
 
@@ -68,10 +68,10 @@
 
 ---
 
-## 🔥 Fun Facts  
-- 🎯 **Strategic Thinker** – Chess, decision-making, and AI are all about patterns.  
-- 🎭 **Lover of Art & Creativity** – I believe coding is an art form.  
-- 🏆 **Constantly Learning & Growing** – because **stagnation is death**.  
+## 🎭 Fun Facts  
+- ♟️ **Strategic Thinker** – Chess, AI, and decision-making go hand in hand.  
+- 🎨 **Coding = Art** – Precision, creativity, and logic in harmony.  
+- 🚀 **Lifelong Learner** – Because **growth never stops**.  
 
 ---
 
