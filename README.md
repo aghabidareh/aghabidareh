@@ -38,16 +38,27 @@
 
 ---
 
-## 🛠️ Cybernetic Arsenal  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />  
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>  
+## 🛠️ Cybernetic Arsenal (Skills)  
+```yaml
+AI Engineering:
+  - Deep Learning
+  - Neural Networks
+  - Computer Vision
+  - NLP & Transformers
+Backend Architecture:
+  - Django
+  - FastAPI
+  - PostgreSQL
+  - Redis
+DevOps & Scaling:
+  - Docker
+  - Linux Server Tuning
+  - Cloud Deployments
+Hacking & Automation:
+  - Ethical Hacking
+  - Reverse Engineering
+  - Web Scraping Bots
+```
 
 ---
 
