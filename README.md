@@ -44,20 +44,16 @@ AI Engineering:
   - Deep Learning
   - Neural Networks
   - Computer Vision
-  - NLP & Transformers
+  - NLP
 Backend Architecture:
   - Django
-  - FastAPI
+  - Flask
   - PostgreSQL
-  - Redis
+  - MySQL
 DevOps & Scaling:
   - Docker
   - Linux Server Tuning
   - Cloud Deployments
-Hacking & Automation:
-  - Ethical Hacking
-  - Reverse Engineering
-  - Web Scraping Bots
 ```
 
 ---
