@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0FF7F7&center=true&vCenter=true&width=800&lines=AI+%7C+Machine+Learning+%7C+Cybernetic+Backend+Django;Building+Neon+Futures+with+Code+and+Intelligence;Engineer%2C+Hacker%2C+Problem+Solver%2C+Game+Changer;AI+is+the+Future%2C+and+I'm+Here+to+Rewrite+It!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0FF7F7&center=true&vCenter=true&width=800&lines=AI+%7C+Machine+Learning+%7C+Cybernetic+Backend+Django;Building+Neon+Futures+with+Code+and+Intelligence;Problem+Solver%2C+Game+Changer;AI+is+the+Future%2C+and+I'm+Here+to+Rewrite+It!" alt="Typing SVG" />
 </p>
 
 <p align="center">
