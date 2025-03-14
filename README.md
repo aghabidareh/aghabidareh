@@ -80,6 +80,10 @@ DevOps & Scaling:
 </p>  
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghabidareh&hide=jupyter%20notebook&theme=monokai&langs_count=10&layout=compact" alt="Mohmmad Amin Khara's Github Stat" /><br />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aghabidareh&theme=radical" width="90%" />
 </p>  
 
