@@ -48,6 +48,7 @@ AI Engineering:
 Backend Architecture:
   - Django
   - Flask
+  - FastAPI
   - PostgreSQL
   - MySQL
 DevOps & Scaling:
